@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584190610725",
+    "firebase_url": "https://gored-6730d.firebaseio.com",
+    "project_id": "gored-6730d",
+    "storage_bucket": "gored-6730d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584190610725:android:2605d5f932eae184",
+        "android_client_info": {
+          "package_name": "shadowws.in.gored"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584190610725-h3vmi0svj1f4j4qg3p3bfatl2ei9k3r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shadowws.in.gored",
+            "certificate_hash": "57d63bce56d0bb43006569e79848a1eb00875a25"
+          }
+        },
+        {
+          "client_id": "584190610725-hp8qmvo4so0nac11ceid3herr4vgfcp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJWXlO88Lmobv9sNxCXW5Ry1jP5NmSRT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584190610725-hp8qmvo4so0nac11ceid3herr4vgfcp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
